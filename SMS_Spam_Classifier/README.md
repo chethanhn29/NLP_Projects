@@ -13,7 +13,7 @@ This project is a demonstration of SMS spam detection using various text represe
 - [Evaluation Metrics](#evaluation-metrics)
 - [Optimal Number of Features](#optimal-number-of-features)
 - [Results](#results)
-- [### Best Model](#best-model)
+- [Best Model](#best-model)
 - [Conclusion](#conclusion)
 
 ## Project Structure
