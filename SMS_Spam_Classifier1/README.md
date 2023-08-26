@@ -1,5 +1,5 @@
 # SMS Spam Classification Project
-
+[Kaggle link](https://www.kaggle.com/code/chethuhn/sms-spam-classifier1)
 ## Overview
 
 This project involves the analysis of an SMS spam collection dataset. The main objective is to develop a classification model to distinguish between spam and ham (non-spam) text messages. The project includes the following steps:
