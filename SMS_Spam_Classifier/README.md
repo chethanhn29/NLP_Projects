@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a demonstration of SMS spam detection using various text representation models and Naive Bayes classifiers. It explores different text preprocessing techniques, text representations (Bag of Words and TF-IDF), and Naive Bayes variants (Gaussian, Multinomial, Complement, Bernoulli) to classify SMS messages as either spam or ham (non-spam). The goal is to build a robust spam detection model and compare the performance of different approaches.
+This project is a demonstration of SMS spam detection using various text representation models and Naive Bayes classifiers using Sklearn and NLTK libraries. It explores different text preprocessing techniques, text representations (Bag of Words and TF-IDF), and Naive Bayes variants (Gaussian, Multinomial, Complement, Bernoulli) to classify SMS messages as either spam or ham (non-spam). The goal is to build a robust spam detection model and compare the performance of different approaches.
 
 ## Table of Contents
 
