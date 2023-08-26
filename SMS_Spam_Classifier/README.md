@@ -19,7 +19,7 @@ This project is a demonstration of SMS spam detection using various text represe
 ## Project Structure
 - [code]
 sms_spam_detection.ipynb (Jupyter Notebook with the code)
-- [data](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) (The dataset used for training and testing)
+- [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) (The dataset used for training and testing)
 - README.md (This file)
 
 
