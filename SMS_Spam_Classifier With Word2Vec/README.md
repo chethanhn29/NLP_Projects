@@ -1,5 +1,5 @@
 # SMS Spam Classification Project
-
+### [Kaggle](https://www.kaggle.com/code/chethuhn/spam-classifier-using-word2vec)
 ## Overview
 This project aims to build a machine learning model for classifying SMS messages as either spam or ham (non-spam). The dataset used for this project is the "SMS Spam Collection Dataset."
 
