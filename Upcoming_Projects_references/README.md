@@ -171,3 +171,86 @@ Here are the libraries commonly used for various Natural Language Processing (NL
     - Website: [FastText](https://fasttext.cc/)
 
 These libraries provide a solid foundation for tackling a wide range of NLP projects, from simple text preprocessing to complex deep learning tasks. Depending on your project requirements and preferences, you can choose the appropriate libraries and tools to get the job done efficiently.
+
+Top GitHub NLP Projects 
+1. Paraphrase Identification
+Paraphrase detection is an NLP application that detects whether or not two different sentences have the same meaning. It is widely used in machine translation, question answering, information extraction/retrieval, text summarization, and natural language generation. 
+
+This is a beginner-friendly project wherein you will build a paraphrase identification system that can accurately identify the similarities and differences between two textual entities (for example, sentences) by applying syntactic and semantic analyses on them.
+
+2. Document Similarity
+This is another beginner-friendly project that aims to quantify the similarities between two documents by using the Cosine similarity method. By finding the similarities between the two papers, this project will highlight the common topics of discussion. 
+
+Cosine similarity converts two documents to vectors to compute the similarity between those vectors. It calculates the document similarities by taking the inner product space that measures the cosine angle between them.
+
+Document similarity mentions the measure of documents with identical intent. Many examples of document similarity in NLP projects use the spaCy module in Python.
+
+FYI: Free nlp course!
+
+3. Text-Prediction
+In this project, you’ll build an application that can predict the next word as you type words. The tools used to create this text prediction project include Natural Language Processing, Text Mining, and R’s suite of tools. 
+
+The project uses a Maximum Likelihood estimator with Kneser Ney Smoothing as the prediction model. The prediction is designed on the collection of words stored in the database used for training the model. You can find the complete set of resources for this project on GitHub.
+
+4. The Science of Genius 
+This project is a part of the Science of Success project. The aim here is to determine if specific lexical factors can indicate the attention an article received, as measured by normalized citation indices, using a host of data science and NLP analytical tools. 
+
+In the initial phases, this project focuses on studying the temporal and disciplinary variance in the length and syntactic features of article titles in the Web of Science – a dataset containing over 50 million articles published since 1900. The bigger picture is to create a quantitative model that can accurately estimate a scientific paper’s impact on the community.
+
+5. Extract stock sentiment from news headlines
+As the title suggests, you will use sentiment analysis on financial news headlines from Finviz to produce investing insights in this project. The sentiment analysis technique will help you understand and interpret the emotion behind the headlines and predict whether the present market situation is in favor of a particular stock or not.
+
+6. Intelligent bot
+This project involves building a smart bot that can parse and match results from a specific repository to answer questions. The bot uses WordNet for this operation. It weighs the context of a question concerning the tags in structured documents (such as headers, bold titles, etc.). Since it retains the context, you can ask related questions around the same topic. 
+
+For instance, if you wish to query a Wikipedia article, you can use the template “Tell me about XYZ” and continue to ask similar questions once the context is established. Again, you can query a webpage by mentioning the page’s URL as the source like “https://www.microsoft.com/en-us/software-download/faq.” This works exceptionally well with FAQ and Q&A pages. 
+
+Many tech companies are now using conversational bots, known as Chatbots, to communicate with their customers and solve their concerns. It saves time for both companies and customers. The users are informed first to mention all the details that the bots ask for. The customers are connected to a customer care executive only if human intervention is required in the NLP projects.
+
+This project explains how to use the NLTK library in Python for text preprocessing and text classification. You can also learn how lemmatisation, Tokenization, and Parts-of-Speech tagging are executed in Python. This project familiarises you with the models like Decision trees, Bag-of-words, and Naive Bayes. You can go through an example chatbot application using Python for text classification using NTLK.
+
+It is one of the best NLP projects because chatbots are used in many use cases in the service and hospitality industry. They are used as waiters at the restaurant or assistants for your device. Furthermore, intelligent chatbots are widely adopted for customer service in various sectors. Certain common examples include Alexa, Google Assistant, Siri, etc.
+
+7. CitesCyVerse
+The CitesCyVerse project is designed on The Science Citation Knowledge Extractor. CitesCyVerse is an open-source tool that leverages Machine Learning and NLP to help biomedical researchers understand how others use their work by analyzing the content in articles that cite them. By using ML and NLP, CitesCyVerse extracts the prominent themes and concepts discussed in the citing documents. This enables researchers to better understand how their work influences others in the scientific community. 
+
+CitesCyVerse includes WordClouds that generates new clouds from similar words mentioned in citing papers. Also, it has Topics that lets you explore popular topics for articles and publications citing CyVerse. 
+
+8. Data Science Capstone – Data processing scripts
+In this Data Science capstone project, you will use data processing scripts to demonstrate data engineering instead of creating an n-gram model. These scripts can process the whole corpus to produce the n-grams and their counts. You can use this data to develop predictive text algorithms. 
+
+To build this project, you will need a dual-core system (since most scripts are single-threaded) with at least 16GB RAM. As for the software requirements, you need – Linux (best if tested on Ubuntu 14.04), Python (version 2.7), NLTK (version 3.0), and NumPy.
+
+Read: Natural Language Processing Project Ideas & Topics
+
+9. Script generator
+This is an exciting project where you’ll build RNNs to generate TV scripts for the popular show The Simpsons based on a script dataset of all the show’s 27 seasons. The RNNs will generate a new script for a specific scene shot at Moe’s Tavern. 
+
+The script generator project is a part of Udacity’s Deep Learning Nanodegree. The project implementation is contained in: dlnd_tv_script_generation.ipynb
+
+10. Reddit stock prediction
+This project seeks to understand how social media posts impact the future prices of individual stocks. Here, we’ll study the impact of social media posts on Reddit, particularly investment focused subreddits/forums, using text analysis methods.
+
+You can use the GitHub repository files to clean and apply sentiment analysis to Reddit posts/comments and use this data to create regression models. The repository also includes the code that you can use for the interactive web application utilized for visualizing real-time sentiment for specific stocks tickers and make relevant predictions.
+
+11. Me_Bot
+This is a fun NLP project where you will develop a bot named Me_Bot that will leverage your WhatsApp conversations, learn from them, and converse with you just as you would with another person. Essentially, the idea is to create a bot that speaks like you. 
+
+You need to export your WhatsApp chats from your phone and train the bot on this data. To do so, you have to go to WhatsApp on your phone, choose any conversation, and export it from the app’s settings. Then you can shift the “.txt” file generated to the Me_Bot folder.
+
+Also Read: Deep Learning vs NLP
+
+12. Speech emotion analyzer
+This project revolves around creating an ML model that can detect emotions from the conversations we have commonly in our daily life. The ML model can detect up to five different emotions and offer personalized recommendations based on your present mood.
+
+This emotion-based recommendation engine is of immense value to many industries as they can use it to sell to highly targeted audience and buyer personas. For instance, online content streaming platforms can use this tool to offer customized content suggestions to individuals by reading their current mood and preference. 
+
+Skills needed to become an NLP engineer:
+The ability to implement NLP techniques in at least one of the famous deep learning frameworks (Tensorflow, PyTorch, etc.).
+Knowledge of widely used deep learning and machine learning algorithms.
+Deep understanding of statistical techniques used to measure the results of NLP algorithms.
+Practical experience with cloud-based platforms like Azure and AWS
+Experienced in using NLP algorithms
+The knowledge of using natural language data to derive conclusions in the best NLP projects.  This contributes to business growth.
+Design NLP-based applications to address customer requirements.
+Key benefits of NLP projects on G
