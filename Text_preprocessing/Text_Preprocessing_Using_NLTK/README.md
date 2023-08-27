@@ -1,1 +1,14 @@
-
+Go throgh this [Artice](https://realpython.com/nltk-nlp-python/) to perform  these methods using NLTK
+- Tokenizing
+- Filtering Stop Words
+- Stemming
+- Tagging Parts of Speech
+- Lemmatizing
+- Chunking
+- Chinking
+- Using Named Entity Recognition (NER)
+- Getting Text to Analyze
+- Using a Concordance
+- Making a Dispersion Plot
+- Making a Frequency Distribution
+- Finding Collocations
