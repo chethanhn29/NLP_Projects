@@ -1,6 +1,6 @@
 # Text Preprocessing Techniques
 
-## To know More abouth these Techniques go throuh these articles [Article 1](https://realpython.com/nltk-nlp-python/),[Article 2](https://www.analyticsvidhya.com/blog/2021/09/essential-text-pre-processing-techniques-for-nlp/),[Article 3](https://www.analyticsvidhya.com/blog/2021/06/must-known-techniques-for-text-preprocessing-in-nlp/)
+## To know More abouth these Techniques go through these articles [Article 1](https://realpython.com/nltk-nlp-python/),[Article 2](https://www.analyticsvidhya.com/blog/2021/09/essential-text-pre-processing-techniques-for-nlp/),[Article 3](https://www.analyticsvidhya.com/blog/2021/06/must-known-techniques-for-text-preprocessing-in-nlp/)
 Text preprocessing is a crucial step in natural language processing (NLP) that involves cleaning and transforming raw text data into a format suitable for analysis or modeling. Below, I'll list various text preprocessing techniques along with their types and descriptions:
 
 ## 1. Text Cleaning
