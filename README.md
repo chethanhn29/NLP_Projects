@@ -4,7 +4,7 @@ Welcome to the Natural Language Processing (NLP) Projects Repository! This repos
 
 ## Methods and Models
 
-### Text Preprocessing
+### [Text Preprocessing](https://github.com/chethanhn29/NLP_Projects/tree/main/Text_preprocessing)
 
 - **Lemmatization:** Projects demonstrating the use of lemmatization techniques using libraries like NLTK and spaCy.
 - **Stemming:** Projects showcasing stemming techniques for text data preprocessing.
