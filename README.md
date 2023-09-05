@@ -10,7 +10,7 @@ Welcome to the Natural Language Processing (NLP) Projects Repository! This repos
 - **Stemming:** Projects showcasing stemming techniques for text data preprocessing.
 - **Stopwords Removal:** Learn how to remove common stopwords from text data to improve text analysis.
 
-### Text Vectorization
+### [Text Vectorization](https://github.com/chethanhn29/NLP_Projects/tree/main/Text_to_vectors_Techniques)
 
 - **Count Vectorizer:** Explore the basics of text vectorization using the Count Vectorizer technique.
 - **Bag of Words (BoW):** Implement Bag of Words models for text representation.
