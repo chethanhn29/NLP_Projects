@@ -15,6 +15,10 @@ Welcome to the Natural Language Processing (NLP) Projects Repository! This repos
 - **Count Vectorizer:** Explore the basics of text vectorization using the Count Vectorizer technique.
 - **Bag of Words (BoW):** Implement Bag of Words models for text representation.
 
+
+### [Text Classification Projects](https://github.com/chethanhn29/NLP_Projects/tree/main/Text_Classification_projects)
+-  Using Bag of Words and TFIDF vectorizer 
+
 ### Word Embeddings
 
 - **Word2Vec:** Dive into word embeddings using the Word2Vec model for semantic analysis.
